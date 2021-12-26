@@ -26,7 +26,6 @@
 <br />
 <br />
 <br />
----
 
 [linkedin]: https://in.linkedin.com/in/raviteja-v-312567148
 [stackoverflow]: https://stackoverflow.com/users/9436673/raviteja-v
