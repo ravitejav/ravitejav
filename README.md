@@ -24,8 +24,10 @@
 
 <br />
 <br />
-<br />
-<br />
+ 
+---
+
+![Raviteja's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravitejav&show_icons=true&theme=radical)
 
 [linkedin]: https://in.linkedin.com/in/raviteja-v-312567148
 [stackoverflow]: https://stackoverflow.com/users/9436673/raviteja-v
