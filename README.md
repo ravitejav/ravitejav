@@ -3,7 +3,7 @@
          height="45"
          width="45" /></h1>
 <h5 align="center">
-I am Full Stack Developer,  specialized in ReactJs, ReactJS, React Native, Angular, Javascript, Java and, Spring Boot. I'm Looking forward to working in a challenging, entertaing, learning environment.
+I am Frontend Developer, with 4+ years of experience in ReactJs, React Native, Angular, Javascript. I'm Looking forward to working in a challenging and learning environment.
 </h5>
 
 <div>
